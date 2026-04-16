@@ -1,0 +1,6 @@
+interface:
+  display_name: "Frontend panel step"
+  short_description: "Implement one frontend UI step cleanly"
+
+policy:
+  allow_implicit_invocation: false

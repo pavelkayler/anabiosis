@@ -1,0 +1,6 @@
+interface:
+  display_name: "Report writer"
+  short_description: "Write the roadmap step report"
+
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "DB migration step"
+  short_description: "Handle DB and migration roadmap steps safely"
+
+policy:
+  allow_implicit_invocation: false

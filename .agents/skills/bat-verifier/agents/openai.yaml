@@ -1,0 +1,6 @@
+interface:
+  display_name: "BAT verifier"
+  short_description: "Manage Windows bat verification workflow"
+
+policy:
+  allow_implicit_invocation: false

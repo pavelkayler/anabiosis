@@ -1,0 +1,6 @@
+interface:
+  display_name: "Decision engine step"
+  short_description: "Implement decision logic safely"
+
+policy:
+  allow_implicit_invocation: false
